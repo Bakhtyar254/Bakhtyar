@@ -17,9 +17,9 @@
   <body>
     <main>
       <div class="profile">
-        <img src="./my-gallery-master/profilePhoto.png" alt="profile" />
-        <h2>rodney cotton</h2>
-        <p>helsimki, finland</p>
+        <img src="./my-gallery-master/bakhti.png" alt="profile" />
+        <h2>Bakhtyar Amirzhanov</h2>
+        <p>Kulsary , Kazakhstan</p>
         <div class="mini">
           <button>
             <h3>100</h3>
