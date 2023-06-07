@@ -16,6 +16,9 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+
+  
+
 }
 
 .profile img {
@@ -27,6 +30,9 @@ main {
 .profile img:hover {
     border-radius: 40%;
     cursor: pointer;
+
+    background: url(bakhti.png);
+border-radius: 16px;
 }
 
 .mini {
