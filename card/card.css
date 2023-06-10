@@ -25,7 +25,7 @@ body{
 }
 
 .button{
-    border-radius: 25%;
+    border-radius: 25px;
     background: rgb(210,195,54);
     background: linear-gradient(90deg, rgba(210,195,54,1) 6%, rgba(253,130,29,1) 57%, rgba(253,29,29,1) 95%);
     cursor: pointer;
